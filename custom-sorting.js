@@ -21,8 +21,7 @@ students.sort(function(a, b) {
     } else {
       return 1;
     }
-}
-
+  }
 });
 
 console.log(students);
